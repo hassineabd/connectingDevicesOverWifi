@@ -16,14 +16,15 @@ For more details, refer to the [Medium article](https://abdelkaderhassine.medium
     ```bash
     ./connect_devices.sh
 
-### Windows Users:
-**Run the script:**
-  ```bash
-  ./connect_devices.sh
+## Windows Users:
+
+1. **Run the script:**
+   ```bash
+   ./connect_devices.sh
 
 
-**If issues arise, use:**
+2. **If issues arise, use:**
       ```bash
       sh connect_devices.sh
 
-##Note: Ensure that you have the necessary permissions and ADB installed on your machine before using the script.
+## __Note:__ Ensure that you have the necessary permissions and ADB installed on your machine before using the script.
