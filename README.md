@@ -1,19 +1,41 @@
-# connectingDevicesOverWifi
-Connecting Android devices over wifi, shell script
-\n More details here: 
-https://abdelkaderhassine.medium.com/connecting-android-devices-over-wifi-6614be5c56d9
+#!/bin/bash
 
-
-# MacOS users:
-Make the script executable:
-chmod +x connect_devices.sh
-
-Run the script:
-./connect_devices.sh
-
-# Windows users:
-Run the script:
-./connect_devices.sh
-
-If issues arise, use:
-sh connect_devices.sh
+echo "# Connecting Devices Over Wi-Fi"
+echo ""
+echo "This repository provides a shell script to simplify the process of connecting Android devices over Wi-Fi using ADB."
+echo ""
+echo "For more details, refer to the [Medium article](https://abdelkaderhassine.medium.com/connecting-android-devices-over-wifi-6614be5c56d9)."
+echo ""
+echo "## Usage"
+echo ""
+echo "### macOS Users:"
+echo ""
+echo "1. **Make the script executable:**"
+echo ""
+echo "   \`\`\`bash"
+echo "   chmod +x connect_devices.sh"
+echo "   \`\`\`"
+echo ""
+echo "2. **Run the script:**"
+echo ""
+echo "   \`\`\`bash"
+echo "   ./connect_devices.sh"
+echo "   \`\`\`"
+echo ""
+echo "### Windows Users:"
+echo ""
+echo "- **Run the script:**"
+echo ""
+echo "  \`\`\`bash"
+echo "  ./connect_devices.sh"
+echo "  \`\`\`"
+echo ""
+echo "  If issues arise, use:"
+echo ""
+echo "  \`\`\`bash"
+echo "  sh connect_devices.sh"
+echo "  \`\`\`"
+echo ""
+echo "---"
+echo ""
+echo "*Note: Ensure that you have the necessary permissions and ADB installed on your machine before using the script.*"
