@@ -1,6 +1,6 @@
 # connectingDevicesOverWifi
 Connecting Android devices over wifi, shell script
-More details here: 
+\n More details here: 
 https://abdelkaderhassine.medium.com/connecting-android-devices-over-wifi-6614be5c56d9
 
 
